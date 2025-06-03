@@ -35,6 +35,7 @@ paragraph-analyzer
 ├── index.html # Main HTML file
 ├── style.css # Styling
 └── script.js # JavaScript logic
+└── README.md          # Project description and documentation
 
 ---
 
