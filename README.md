@@ -1,5 +1,7 @@
 # Paragraph Analyzer
 
+https://hsa-attock.github.io/paragraph-analyzer/
+
 A lightweight web tool that analyzes any paragraph you input. It gives you detailed counts of:
 
 - Words  
